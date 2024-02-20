@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(libmuonpi LANGUAGES CXX C)
+project(libmuonpi LANGUAGES CXX C VERSION 1.0.0-kr0.1)
 
 string(TIMESTAMP PROJECT_DATE_STRING "%b %d, %Y")
 
