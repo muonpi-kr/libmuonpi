@@ -12,6 +12,7 @@
 #include <list>
 #include <numeric>
 #include <shared_mutex>
+#include <mutex>
 
 namespace muonpi {
 
